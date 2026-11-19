@@ -4,7 +4,7 @@
 
 **Open source:** [kaggle-dataset-pipelines](https://github.com/tb91117/kaggle-dataset-pipelines) is the code behind the datasets below. It fetches official open data, cleans and documents it, and refreshes each dataset on Kaggle's servers.
 
-**On Kaggle** ([teddybrown414](https://www.kaggle.com/teddybrown414)): I publish cleaned, documented, monthly-refreshed public datasets with example notebooks:
+**On [Kaggle](https://www.kaggle.com/teddybrown414):** I publish cleaned, documented, monthly-refreshed public datasets with example notebooks:
 
 | Dataset | Example notebook |
 |---|---|
