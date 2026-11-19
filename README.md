@@ -2,8 +2,6 @@
 
 <!-- Write 1-2 sentences about yourself here, in your own words: what you build, what you're learning. -->
 
-**Now building:** [grandmaster-skills](https://github.com/tb91117/grandmaster-skills): agent skills for Kaggle and ML engineering. They publish trustworthy datasets, check notebook claims against their outputs, catch leakage, and follow Kaggle's rules.
-
 **On Kaggle** ([teddybrown414](https://www.kaggle.com/teddybrown414)): I publish cleaned, documented, monthly-refreshed public datasets with example notebooks:
 
 | Dataset | Example notebook |
